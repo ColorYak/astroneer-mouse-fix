@@ -1,0 +1,9 @@
+{
+  "schema_version": 2,
+  "name": "Astroneer Mouse Fix",
+  "mod_id": "AstroneerMouseFix",
+  "author": "astroneer-mouse-fix contributors",
+  "description": "Provides direct mouse camera response with equal pitch and yaw speed.",
+  "version": "1.0.0",
+  "sync": "client"
+}
